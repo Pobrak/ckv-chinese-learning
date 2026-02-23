@@ -12,11 +12,11 @@
 
 | Metric | Current Status |
 |--------|----------------|
-| **Total Sessions** | 1 |
-| **Characters Mastered (识读)** | 0 (baseline pending) |
-| **Characters Mastered (识写)** | TBD |
-| **Current Pokédex Size** | 0 🎮 |
-| **Upcoming Milestone** | CA1 Exam (late Feb / early Mar 2026) |
+| **Total Sessions** | 2 |
+| **Characters Mastered (识读)** | 39 (P1 baseline strong!) |
+| **Characters Mastered (识写)** | 21 practiced (P2 L1-L2) |
+| **Current Pokédex Size** | 39 🎮 |
+| **Upcoming Milestone** | CA1 Exam (~2 weeks away) |
 
 ---
 
@@ -24,8 +24,9 @@
 
 ```
 ckv-chinese-learning/
-├── session-logs/          # Session-by-session logs
-│   └── CKV_Session_001_2026-02-23.md
+├── session-logs/
+│   ├── CKV_Session_001_2026-02-23.md
+│   └── CKV_Session_002_2026-02-23.md
 ├── interactive-sessions/  # HTML learning apps
 ├── progress-reports/      # Monthly summaries
 └── README.md             # This file
@@ -35,13 +36,13 @@ ckv-chinese-learning/
 
 ## 🎯 Current Focus (Feb 2026)
 
-**CA1 Preparation Mode** — 2-3 weeks until exam  
+**CA1 Preparation Mode** — ~2 weeks until exam  
 
 **Priority Stack**:
-1. 识写字 (writing from memory)
-2. 识读字 (character recognition)
-3. Pinyin tones
-4. Sentence patterns
+1. ✅ P1 Foundation (39/20 confirmed!)
+2. ✅ P2 L1-L2 识写字 (21/21 practiced)
+3. 🔄 P2 L3-L4 consolidation (next session)
+4. 🔄 Sentence patterns practice
 
 **Target Coverage**: P2上 Lessons 1-5
 
@@ -65,6 +66,16 @@ Engagement anchors:
 
 ## 📅 Session History
 
+### Session 002 — 23 Feb 2026
+- **Type**: Gap Remediation + P2 L1-L2 Writing
+- **Duration**: 32 min
+- **Focus**: P1 flashcard drill (20 chars) + P2 识写字 (21 chars)
+- **Results**: 39 P1 chars known! 21/21 L1-L2 写字 practiced
+- **Effort**: ⭐⭐⭐⭐☆ (4/5)
+- **Status**: ✅ Complete
+
+[View Full Log →](session-logs/CKV_Session_002_2026-02-23.md)
+
 ### Session 001 — 23 Feb 2026
 - **Type**: Diagnostic Assessment
 - **Duration**: 45 min
@@ -78,10 +89,29 @@ Engagement anchors:
 
 ## 🚀 Real Life Missions
 
-**Current Mission** (before Session 2):
-1. Spot 3 Chinese characters in real life
-2. Look up Pikachu's Chinese name: 皮卡丘 (Pí kǎ qiū)
-3. Say to Kang Yai: 我有一只猫 (wǒ yǒu yī zhī māo = I have one cat)
+**Current Mission** (before Session 3):
+1. Find something at **home** (家) that's **new** (新)
+2. Find something that's **old** (旧)
+3. Tell Dad: 我很喜欢新的 or 我很喜欢旧的
+4. 🎮 **Bonus**: Describe Kang Yai using 很+adj (e.g., 猫很可爱)
+
+**Previous Missions**:
+- ✅ Session 1: Spot 3 Chinese characters, look up Pikachu's name (皮卡丘)
+
+---
+
+## 📈 Progress Highlights
+
+**Strong Points** 💪:
+- P1 foundation solid (39 chars recognized!)
+- Fast learner (only 1 char needs practice)
+- Completed all P2 L1-L2 writing practice
+- High engagement (4/5 stars effort!)
+
+**Next Steps** 🎯:
+- Confirm L1-L2 写字 mastery (Session 3 review)
+- P2 L3-L4 introduction (tableware + colours)
+- Practice sentence patterns: 我有... (I have...)
 
 ---
 
